@@ -1,0 +1,12 @@
+/* this is my comment */
+/*and then what should we*/
+p {
+    font-family: helvetica; 
+    font-size: 80px;
+    color: rgb(0, 209, 139);
+    text-align: center;
+}
+
+body {
+    background-color: coral;
+    }
